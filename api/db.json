@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "Birdie",
+      "body": "I always fly away",
+      "id": 4
+    },
+    {
+      "title": "To Other Birds",
+      "body": "Tweet tweet",
+      "id": 5
+    }
+  ]
+}
